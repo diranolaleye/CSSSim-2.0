@@ -1,8 +1,8 @@
-# CSSSim-1.0
-Cooperative spectrum sensing simulator for MATLAB
+# CSSSim-2.0
+MATLAB Simulation for Cooperative-spectrum-sensing-based Big Spectrum Data Synthesis
 
 # Related Project:
-Simulation of Energy Spectrum Sensing for Spectrum Awareness: A Novel Scheme for Minimizing the Effects of Noise Estimation Error and Malicious Attacks in Energy-Detection-based Cooperative Spectrum Sensing for Spectrum Situational Awareness
+Towards Detection and Elimination of Uncertainties in Big Spectrum Data Synthesis
 
 # Author:
 Oladiran G. Olaleye
@@ -16,11 +16,15 @@ ogo8842@louisiana.edu
 # Website:
 http://web.cacs.louisiana.edu/labs/wisper/index.html
 
-# Reference:
+# Reference 1:
 O.G. Olaleye, M.A. Iqbal, A. Aly, D. Perkins, M. Bayoumi, "An Energy-Detection-based Cooperative Spectrum Sensing Scheme for Minimizing the Effects of NPEE and RSPF," MSWiM ’16, November 13-17, 2016, Malta, Malta.
 
+
+# Reference 2:
+O.G. Olaleye, A. Aly, A. Ali, M.A. Iqbal, D. Perkins, M. Bayoumi, "Towards Performance and Scalability Benchmarking of Spectrum Awareness in Heterogeneous Cognitive Radio Networks,"submitted to IEEE Transactions on Cognitive Communications and Networking, vol. 1, no. 1, pp. 1-14, 2017.
+
 # NOTE:
-This is the raw unformatted copy. Thank you.
+This is the unformmated copy. Thank you.
 
 # Written:
-February, 2015
+February, 2017.
